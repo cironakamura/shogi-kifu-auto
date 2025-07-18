@@ -10,3 +10,4 @@
 .env.production
 
 /output_cells_grid
+/shogi_image
